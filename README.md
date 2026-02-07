@@ -1,3 +1,4 @@
+![logo](https://github.com/Rahul7478/Rahul7478/blob/main/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Harode</h1>
 <h3 align="center">A passionate Data Analytic from India</h3>
 
