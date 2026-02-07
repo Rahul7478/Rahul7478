@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Harode</h1>
 <h3 align="center">A passionate Data Analytic from India</h3>
 
-<img align="right" alt="coding" width="600" src="https://github.com/user-attachments/assets/4882fa76-4ea5-4fa1-a5bd-f55989a8e7ca" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/4882fa76-4ea5-4fa1-a5bd-f55989a8e7ca" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul7478&label=Profile%20views&color=0e75b6&style=flat" alt="rahul7478" /> </p>
@@ -19,13 +19,33 @@
 
 - ⚡ **I am funny 😎**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Twitter -->
-  <a href="https://twitter.com/harode25082" target="_blank" rel="noreferrer">
+
+  <!-- GitHub -->
+  <a href="https://github.com/harode25082" target="_blank" rel="noreferrer">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="GitHub"
+      height="30"
+      width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/harode25082/" target="_blank" rel="noreferrer">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
+      alt="LeetCode"
+      height="30"
+      width="40" />
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/harode25082" target="_blank" rel="noreferrer">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
+      alt="Kaggle"
       height="30"
       width="40" />
   </a>
@@ -39,6 +59,15 @@
       width="40" />
   </a>
 
+  <!-- Twitter -->
+  <a href="https://twitter.com/harode25082" target="_blank" rel="noreferrer">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Twitter"
+      height="30"
+      width="40" />
+  </a>
+
   <!-- Instagram -->
   <a href="https://www.instagram.com/harode_rahul__747/" target="_blank" rel="noreferrer">
     <img align="center"
@@ -47,7 +76,9 @@
       height="30"
       width="40" />
   </a>
+
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
